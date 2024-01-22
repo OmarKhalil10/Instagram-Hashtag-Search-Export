@@ -62,7 +62,7 @@ def download_posts_to_csv(username, since_date, until_date, csv_filename):
 
 # Example usage
 # Replace with your own Instagram username
-username_to_download = 'IG_USERNAME'
+username_to_download = 'lila__habib'
 start_date = datetime(2021, 1, 1)  # Replace with your desired start date
 end_date = datetime(2023, 1, 31)   # Replace with your desired end date
 output_csv_filename = 'downloaded_posts.csv'
